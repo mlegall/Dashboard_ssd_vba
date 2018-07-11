@@ -1,6 +1,6 @@
 <h1>Tableaux de bord Seine Saint Denis</h1>
-*Projet VBA* <br>
-Janvier 2017
+<b>Projet VBA</b>
+<i>Janvier 2017</i>
 
 
 Bienvenu !
