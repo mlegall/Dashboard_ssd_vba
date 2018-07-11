@@ -10,3 +10,7 @@ Vous trouverez ici un projet réalisé en équipe dans le cadre du cours Systèm
 Le document [dashboard_notice.pdf](/dashboard_notice.pdf) vous permettra d'avoir une aide à la navigation.
 
 Téléchargement du projet ici : [dashboard.xlsm](https://github.com/mlegall/Dashboard_ssd_vba/raw/master/SYSTOBS_SSD_LE_GALL_MA_SCHMITT.xlsm)
+
+
+
+<i>Contact : marine-legall @ orange.fr </i>
